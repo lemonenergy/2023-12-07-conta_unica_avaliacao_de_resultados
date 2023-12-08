@@ -1,0 +1,1025 @@
+cliente,saldo_mais_recente,mes_referencia_saldo_mais_recente,total_de_boletos,dias_sem_pagamento,datas_de_vencimento,chave,registros_de_pagamento,em_cobranca_externa,severidade,boletos_pagos_com_atraso,frequencia,frequencia_q2,severidade_q2,todas_cobrancas_pagas,cobranca_externa_corrente,mau_pagador,cliente_ao_21_plus,cliente_ap_3_plus,tem_saldo_acumulado,apto_ao_teste
+3005950750_JOSE CANDIDO PINTO,65.51,2023-10-01,13,[ 9 11 14 -3  1 21 -9 23 21 24 27 31 19],"['2022-08-23' '2022-09-22' '2022-10-24' '2022-12-22' '2023-01-22'
+ '2023-02-24' '2023-03-22' '2023-04-22' '2023-05-22' '2023-06-26'
+ '2023-07-22' '2023-08-22' '2023-09-22']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+ False]","[False False False False False False False False False False False False
+ False]",14.53846153846154,11,0.8461538461538461,alto,alto,False,False,True,False,False,True,True
+3003736292_VALDETE NUNES CHAVES,0.0,2023-09-01,12,[-3  1  5  0  0  0  2  3 19  1  0  1],"['2022-10-13' '2022-11-06' '2023-01-06' '2023-02-06' '2023-03-06'
+ '2023-04-06' '2023-05-06' '2023-06-06' '2023-07-06' '2023-08-06'
+ '2023-09-11' '2023-10-09']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],2.4166666666666665,7,0.5833333333333334,alto,alto,True,False,True,False,False,False,True
+3003629199_PAULO VIEIRA DE ALMEIDA E CIA LTDA ME,0.0,2023-09-01,9,[8 4 2 0 0 1 0 0 0],"['2023-01-18' '2023-02-18' '2023-03-18' '2023-04-18' '2023-05-18'
+ '2023-06-18' '2023-07-18' '2023-08-18' '2023-09-18']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']",[ True  True  True  True  True  True  True  True  True],[False False False False False False False False False],1.6666666666666667,4,0.4444444444444444,alto,alto,True,False,True,False,False,False,True
+3001286165_LEONARDO DE SOUZA PEREIRA,0.0,2023-09-01,12,[0 3 3 1 2 2 0 0 3 0 0 0],"['2022-10-11' '2022-11-11' '2022-12-11' '2023-01-11' '2023-02-11'
+ '2023-03-11' '2023-04-11' '2023-05-11' '2023-06-11' '2023-07-11'
+ '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],1.166666666666667,6,0.5,alto,alto,True,False,True,False,False,False,True
+3010729157_FLAVIO PEREIRA DOS SANTOS,0.0,2023-09-01,14,[  7   3   2   1   3   0  -1   1   1   6  18  58 -16  30],"['2022-08-02' '2022-09-02' '2022-10-02' '2022-11-02' '2022-12-02'
+ '2023-01-02' '2023-02-02' '2023-03-02' '2023-04-02' '2023-05-02'
+ '2023-06-02' '2023-07-02' '2023-08-02' '2023-09-02']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",8.071428571428571,11,0.7857142857142857,alto,alto,True,False,True,False,False,False,True
+3007096064_IASMIM CANDIDA MARIA,0.0,2023-09-01,19,[ 0  0  0  2  0  1  0  0  2  0  0 37  1  1  6  6  6 14 10],"['2022-08-01' '2022-09-01' '2022-10-13' '2022-11-01' '2022-12-01'
+ '2023-01-01' '2023-02-01' '2023-03-01' '2023-04-01' '2023-06-02'
+ '2023-06-02' '2023-07-01' '2023-07-02' '2023-07-02' '2023-08-01'
+ '2023-08-01' '2023-08-01' '2023-09-01' '2023-10-01']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Parcelado' 'Ativo Parcelado' 'Ativo Original'
+ 'Ativo Parcelado' 'Ativo Parcelado' 'Ativo Parcelado' 'Ativo Original'
+ 'Ativo Parcelado' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True False]","[False False False False False False False False False False False False
+ False False False False False False False]",4.526315789473683,11,0.5789473684210527,alto,alto,False,False,True,False,False,False,True
+3006834830_ERNILIO FERREIRA DA ROCHA,234.68,2023-09-01,14,[ 6  0 22  6  8  4  9  1 28 20 15  2  9  6],"['2022-08-05' '2022-09-05' '2022-10-05' '2022-11-05' '2022-12-05'
+ '2023-01-05' '2023-02-05' '2023-03-05' '2023-04-05' '2023-05-05'
+ '2023-06-05' '2023-08-05' '2023-09-05' '2023-10-05']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True False]","[False False False False False False False False False False False False
+ False False]",9.714285714285712,13,0.9285714285714286,alto,alto,False,False,True,False,False,True,True
+3012924122_POSTO TREVO SETUBINHA LTDA,781.95,2023-10-01,10,[15 19 12 16  7 33 22 13  4 16],"['2022-12-25' '2023-01-25' '2023-03-01' '2023-03-25' '2023-04-25'
+ '2023-05-25' '2023-06-26' '2023-07-25' '2023-08-25' '2023-09-25']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True False],[False False False False False False False False False False],15.7,10,1.0,alto,alto,False,False,True,False,False,True,True
+3000746923_MERCEARIA FORMIDAVEL LTDA,230.45,2023-09-01,12,[ 0  0  0  6  0 13 18 17 14 17 14  6],"['2022-10-14' '2022-11-14' '2022-12-14' '2023-01-14' '2023-02-14'
+ '2023-03-14' '2023-04-14' '2023-05-14' '2023-06-14' '2023-07-14'
+ '2023-08-14' '2023-09-14']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],8.75,8,0.6666666666666666,alto,alto,True,False,True,False,False,True,True
+3004282857_REGIANE DE PAULA SANTOS,0.0,2023-09-01,11,[32 21 33 29 22 10 28 26 28  3 38],"['2022-08-27' '2022-09-27' '2022-10-27' '2022-11-27' '2022-12-27'
+ '2023-03-27' '2023-04-27' '2023-05-27' '2023-06-27' '2023-08-25'
+ '2023-08-27']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Parcelado' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False],24.545454545454543,11,1.0,alto,alto,True,False,True,False,False,False,True
+3010722915_JAILTON JOSE MARCAL,17.64,2023-09-01,14,[ 1  0 -1  0  0  2  0  0  0  2 23 -7  3  1],"['2022-08-14' '2022-09-14' '2022-10-14' '2022-11-14' '2022-12-14'
+ '2023-01-14' '2023-02-14' '2023-03-14' '2023-04-14' '2023-05-14'
+ '2023-06-14' '2023-07-14' '2023-08-14' '2023-09-14']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",1.7142857142857144,6,0.42857142857142855,alto,alto,True,False,True,False,False,True,True
+3013286711_JOAO CLAUDIO PEREIRA,0.0,2023-09-01,11,[-1  1  0  1  3  4  8  9  6  0  3],"['2022-12-01' '2023-01-01' '2023-02-01' '2023-03-01' '2023-04-01'
+ '2023-05-01' '2023-06-01' '2023-07-01' '2023-08-01' '2023-09-05'
+ '2023-10-01']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False],3.090909090909091,8,0.7272727272727273,alto,alto,True,False,True,False,False,False,True
+3013641223_FRANCISCO SANTANA DA CRUZ,0.0,2023-09-01,12,[  1  19 -25   5   3  13   6 -20  13  18   0  -3],"['2022-08-11' '2022-09-11' '2022-10-11' '2023-01-11' '2023-02-11'
+ '2023-03-11' '2023-04-11' '2023-06-11' '2023-07-11' '2023-08-11'
+ '2023-08-31' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Parcelado' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],2.5,8,0.6666666666666666,alto,alto,True,False,True,False,False,False,True
+3003407073_RENILDE PEREIRA DA SILVA,0.0,2023-09-01,8,[33 21 30 29 28  0 28 28],"['2023-01-11' '2023-02-13' '2023-03-11' '2023-04-11' '2023-05-15'
+ '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True],[False False False False False False False False],24.625,7,0.875,alto,alto,True,False,True,False,False,False,True
+3005799240_JOSUE SILVA DE OLIVEIRA,0.0,2023-09-01,15,[10  0 -3  0  4  1 -1  2  2  2  5  9  0  4  1],"['2022-08-08' '2022-09-08' '2022-10-27' '2022-11-08' '2022-12-08'
+ '2023-01-08' '2023-02-08' '2023-03-08' '2023-04-08' '2023-05-08'
+ '2023-06-08' '2023-07-08' '2023-08-08' '2023-09-08' '2023-10-08']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True]","[False False False False False False False False False False False False
+ False False False]",2.3999999999999995,10,0.6666666666666666,alto,alto,True,False,True,False,False,False,True
+3003827142_LEONARDO EMILIO SIQUEIRA,0.0,2023-09-01,9,[-2  9  0  6  2  3  0 10 14],"['2023-01-27' '2023-02-27' '2023-03-27' '2023-04-27' '2023-05-27'
+ '2023-06-27' '2023-07-27' '2023-08-27' '2023-09-27']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']",[ True  True  True  True  True  True  True  True False],[False False False False False False False False False],4.666666666666666,6,0.6666666666666666,alto,alto,False,False,True,False,False,False,True
+3005661164_MARIO VELOSO DA SILVA,0.0,2023-09-01,11,[  4   4   6   5   3   0   5   9  -7 -10   1],"['2022-10-27' '2022-11-17' '2023-01-17' '2023-02-17' '2023-03-17'
+ '2023-04-17' '2023-05-17' '2023-06-17' '2023-07-17' '2023-08-17'
+ '2023-09-17']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False],1.8181818181818183,8,0.7272727272727273,alto,alto,True,False,True,False,False,False,True
+3005949408_ELIZABETH RITA DE OLIVEIRA,0.0,2023-09-01,14,[1 7 4 0 4 1 0 0 4 0 0 2 1 7],"['2022-09-01' '2022-09-22' '2022-10-22' '2022-11-22' '2022-12-22'
+ '2023-01-22' '2023-02-22' '2023-03-22' '2023-04-22' '2023-05-22'
+ '2023-06-22' '2023-07-22' '2023-08-22' '2023-09-22']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",2.2142857142857144,9,0.6428571428571429,alto,alto,True,False,True,False,False,False,True
+3000349984_RECANTO SABARA LTDA,0.0,2023-09-01,9,[18 15  8  8 10 13 38 20  1],"['2022-11-25' '2022-12-25' '2023-01-25' '2023-03-01' '2023-03-25'
+ '2023-04-25' '2023-06-26' '2023-07-25' '2023-08-15']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Parcelado']",[ True  True  True  True  True  True  True  True  True],[False False False False False False False False False],14.555555555555555,9,1.0,alto,alto,True,False,True,False,False,False,True
+3007753711_MARIA MIRIANETE MARCOLINO DE LEMOS,0.0,2023-09-01,13,[  4   0   4   9  19   0   1  21  14  27 -14   7   3],"['2022-08-08' '2022-09-08' '2022-10-13' '2023-01-08' '2023-02-08'
+ '2023-03-08' '2023-04-11' '2023-05-08' '2023-06-08' '2023-07-08'
+ '2023-08-08' '2023-09-08' '2023-10-08']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+ False]","[False False False False False False False False False False False False
+ False]",7.307692307692308,10,0.7692307692307693,alto,alto,False,False,True,False,False,False,True
+3001642585_JUDITE NEVES DE MELO,0.0,2023-09-01,15,[ 5 10  0  4  3  5  4  4  4  6 44 14  2 -1  0],"['2022-08-05' '2022-09-05' '2022-10-05' '2022-11-05' '2022-12-05'
+ '2023-01-05' '2023-02-05' '2023-03-05' '2023-04-07' '2023-05-05'
+ '2023-06-05' '2023-07-05' '2023-08-05' '2023-09-05' '2023-10-05']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True]","[False False False False False False False False False False False False
+ False False False]",6.933333333333334,12,0.8,alto,alto,True,False,True,False,False,False,True
+3001594922_WINSTON TITONELI FERREIRA SANTOS,492.58,2023-10-01,14,[-3  1  6 12  1  0  5  2  0  0  5  3  3  0],"['2022-08-11' '2022-09-11' '2022-10-11' '2022-11-11' '2022-12-11'
+ '2023-01-11' '2023-02-11' '2023-03-11' '2023-04-11' '2023-05-11'
+ '2023-06-11' '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",2.4999999999999996,9,0.6428571428571429,alto,alto,True,False,True,False,False,True,True
+3004097489_DAVID MEDEIROS LATUQUE BAREZZI,0.0,2023-09-01,10,[ 2  0 10  7  1  7 20  3  0  8],"['2022-12-17' '2023-01-17' '2023-02-17' '2023-03-17' '2023-04-17'
+ '2023-05-17' '2023-06-17' '2023-07-17' '2023-08-17' '2023-09-17']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False],5.799999999999999,8,0.8,alto,alto,True,False,True,False,False,False,True
+3005594084_ANDRE WASHINGTON DE JESUS,901.31,2023-09-01,12,[2 0 4 2 9 5 8 7 6 9 6 0],"['2022-08-27' '2022-09-27' '2022-10-27' '2022-11-27' '2022-12-27'
+ '2023-01-27' '2023-02-27' '2023-03-27' '2023-04-27' '2023-05-27'
+ '2023-06-27' '2023-07-27']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],4.833333333333333,10,0.8333333333333334,alto,alto,True,False,True,False,False,True,True
+3002761686_EUGENILDA RAMOS LEITE,0.0,2023-09-01,15,[ 0  7  3  0  4  1 -2  1  4  3  6 10  2 -5  4],"['2022-08-02' '2022-09-01' '2022-10-01' '2022-11-01' '2022-12-01'
+ '2023-01-01' '2023-02-01' '2023-03-01' '2023-04-01' '2023-05-01'
+ '2023-06-01' '2023-07-01' '2023-08-01' '2023-09-05' '2023-10-01']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True]","[False False False False False False False False False False False False
+ False False False]",2.5333333333333328,11,0.7333333333333333,alto,alto,True,False,True,False,False,False,True
+3003394168_CLAUDIO LUCIO ALVES,0.0,2023-09-01,15,[0 3 0 2 0 0 1 1 5 3 1 2 2 3 0],"['2022-08-05' '2022-09-05' '2022-10-05' '2022-11-05' '2022-12-05'
+ '2023-01-05' '2023-02-05' '2023-03-05' '2023-04-05' '2023-05-05'
+ '2023-06-05' '2023-07-05' '2023-08-05' '2023-09-05' '2023-10-05']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True]","[False False False False False False False False False False False False
+ False False False]",1.5333333333333334,10,0.6666666666666666,alto,alto,True,False,True,False,False,False,True
+3006586334_GUILHERME DIAS ROSA,0.0,2023-09-01,13,[ 4 -4  4  7 11  6  8  8  8 -4  6  7  7],"['2022-11-04' '2022-11-14' '2022-12-04' '2023-01-04' '2023-02-04'
+ '2023-03-04' '2023-04-04' '2023-05-04' '2023-06-04' '2023-07-04'
+ '2023-08-04' '2023-09-04' '2023-10-04']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+ False]","[False False False False False False False False False False False False
+ False]",5.230769230769231,11,0.8461538461538461,alto,alto,False,False,True,False,False,False,True
+3005172738_MERCADO MONTEIRO LTDA ME,0.0,2023-09-01,12,[13 17  1  0  0  2  0  4 29 23  0  0],"['2022-10-11' '2022-11-11' '2022-12-11' '2023-01-11' '2023-02-13'
+ '2023-03-11' '2023-04-11' '2023-05-11' '2023-06-11' '2023-07-11'
+ '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],7.416666666666668,7,0.5833333333333334,alto,alto,True,False,True,False,False,False,True
+3004641669_BEATRIZ SANTANA FERREIRA,0.0,2023-10-01,9,[24 29 23 30 25 10 60 29 32],"['2022-08-27' '2022-09-27' '2022-10-31' '2022-11-29' '2023-03-06'
+ '2023-03-24' '2023-05-27' '2023-06-27' '2023-07-27']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']",[ True  True  True  True  True  True  True  True  True],[False False False False False False False False False],29.11111111111111,9,1.0,alto,alto,True,False,True,False,False,False,True
+3006764328_AROLDO MARCONE MENDES DE OLIVEIRA,0.0,2023-09-01,14,[ 15  17  14  12   4   9   0  10   7   5  20   0 -20   2],"['2022-08-17' '2022-09-17' '2022-10-17' '2022-11-17' '2022-12-17'
+ '2023-01-17' '2023-02-17' '2023-03-17' '2023-04-17' '2023-05-17'
+ '2023-06-17' '2023-08-17' '2023-08-17' '2023-09-17']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Parcelado'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",6.7857142857142865,11,0.7857142857142857,alto,alto,True,False,True,False,False,False,True
+3001214412_RITA DE CASSIA OLIVEIRA,0.0,2023-09-01,10,[ 1  0  0  4  1  0  2 -1  7  1],"['2023-01-01' '2023-02-01' '2023-03-01' '2023-04-01' '2023-05-01'
+ '2023-06-01' '2023-07-01' '2023-08-01' '2023-09-01' '2023-10-01']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False],1.4999999999999998,6,0.6,alto,alto,True,False,True,False,False,False,True
+3003180315_ADRIANO PEREIRA DE LIMA,0.0,2023-09-01,10,[-1 -4 -3  1  0  5  1 12  1  0],"['2022-12-13' '2023-01-13' '2023-02-13' '2023-03-13' '2023-04-13'
+ '2023-05-13' '2023-06-13' '2023-07-13' '2023-08-13' '2023-09-13']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False],1.2,5,0.5,alto,alto,True,False,True,False,False,False,True
+3012830270_ERIC FELIPE SANTANA DUARTE,66.24,2023-09-01,12,[ 0  0  8  2  7  9 21  8  6  6 10  5],"['2022-11-01' '2022-12-01' '2023-01-01' '2023-02-01' '2023-03-01'
+ '2023-04-01' '2023-05-01' '2023-06-01' '2023-07-01' '2023-08-01'
+ '2023-09-01' '2023-10-01']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],6.833333333333332,10,0.8333333333333334,alto,alto,True,False,True,False,False,True,True
+3002287287_FERNANDA CARVALHO LAMIM,0.0,2023-09-01,14,[0 0 1 3 1 1 2 2 0 1 3 1 0 0],"['2022-08-12' '2022-10-19' '2022-10-31' '2022-11-11' '2022-12-11'
+ '2023-01-11' '2023-02-11' '2023-03-11' '2023-04-11' '2023-05-11'
+ '2023-06-11' '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",1.0714285714285716,9,0.6428571428571429,alto,alto,True,False,True,False,False,False,True
+3000169488_NILTON ROBERTO DE OLIVEIRA JUNIOR,0.0,2023-09-01,14,[ 0 -3  2  2  1  2  1  2  1  4  4  0 11  4],"['2022-08-01' '2022-09-01' '2022-10-01' '2022-11-01' '2023-01-01'
+ '2023-02-01' '2023-03-01' '2023-04-01' '2023-05-01' '2023-06-01'
+ '2023-07-01' '2023-08-01' '2023-09-01' '2023-10-01']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",2.2142857142857144,11,0.7857142857142857,alto,alto,True,False,True,False,False,False,True
+3010110107_MARIA APARECIDA VIVAS,0.0,2023-09-01,14,[ 0  3  5  0  2  0 17  0  0  0  5 22  0 17],"['2022-08-17' '2022-09-17' '2022-10-27' '2022-11-17' '2022-12-17'
+ '2023-01-17' '2023-02-17' '2023-03-17' '2023-04-17' '2023-05-17'
+ '2023-06-17' '2023-07-17' '2023-08-17' '2023-09-17']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",5.071428571428572,7,0.5,alto,alto,True,False,True,False,False,False,True
+3011339877_JANAINA DE CASSIA MOREIRA,214.77,2023-10-01,14,[ 7  4 10 12 12 31 10 12 15  7 13  4  0 12],"['2022-08-23' '2022-09-22' '2022-10-24' '2022-11-23' '2022-12-22'
+ '2023-01-22' '2023-02-24' '2023-03-22' '2023-04-24' '2023-05-22'
+ '2023-06-30' '2023-08-04' '2023-08-22' '2023-09-22']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",10.642857142857144,13,0.9285714285714286,alto,alto,True,False,True,False,False,True,True
+3003490194_NAIR DE OLIVEIRA,0.0,2023-09-01,10,[10 -1 12 10 21 15 10 10 -2 14],"['2022-12-11' '2023-01-11' '2023-02-11' '2023-03-11' '2023-04-11'
+ '2023-05-11' '2023-06-11' '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False],9.900000000000002,8,0.8,alto,alto,True,False,True,False,False,False,True
+3002157018_ANA PAULA DE FREITAS,0.0,2023-09-01,15,[ 1  5  0  1  2  0  3  3  0  2  2  0 -1  3 -1],"['2022-08-03' '2022-09-03' '2022-10-03' '2022-11-03' '2022-12-03'
+ '2023-01-03' '2023-02-03' '2023-03-03' '2023-04-03' '2023-05-03'
+ '2023-06-03' '2023-07-03' '2023-08-03' '2023-09-05' '2023-10-03']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True]","[False False False False False False False False False False False False
+ False False False]",1.3333333333333335,9,0.6,alto,alto,True,False,True,False,False,False,True
+3002563931_EDSON RIBEIRO DA SILVEIRA JUNIOR,367.79,2023-09-01,10,[ 1  0  2  6  0  7 29 15  3  1],"['2022-12-11' '2023-01-11' '2023-02-11' '2023-03-11' '2023-04-11'
+ '2023-05-11' '2023-06-11' '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False],6.4,8,0.8,alto,alto,True,False,True,False,False,True,True
+3000122171_ELPIDIO FERNANDES DE SOUZA,0.0,2023-09-01,7,[47 -1  4 18 30 28 33],"['2022-10-27' '2022-11-01' '2023-01-01' '2023-04-01' '2023-05-01'
+ '2023-06-01' '2023-07-01']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True],[False False False False False False False],22.714285714285715,6,0.8571428571428571,alto,alto,True,False,True,False,False,False,True
+3007673301_COZINHA DO RENATO LTDA,0.0,2023-09-01,14,[ 1  2  2  5 -4  7  7  3  3  5  2  0  1  4],"['2022-08-17' '2022-09-17' '2022-10-17' '2022-11-17' '2022-12-17'
+ '2023-01-17' '2023-02-17' '2023-03-17' '2023-04-17' '2023-05-17'
+ '2023-06-17' '2023-07-17' '2023-08-17' '2023-09-17']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",2.7142857142857144,12,0.8571428571428571,alto,alto,True,False,True,False,False,False,True
+3010960190_MICHAEL FRANCO LOURENCO,0.0,2023-09-01,10,[23 26 23  3 28 29 23 28 26 22],"['2022-12-11' '2023-01-11' '2023-02-11' '2023-03-11' '2023-04-11'
+ '2023-05-11' '2023-06-11' '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False],23.099999999999998,10,1.0,alto,alto,True,False,True,False,False,False,True
+3001418189_LAIR NAZARE DA CUNHA,0.0,2023-09-01,12,[23 18 11  8  2  2  0 -1  1  0  0 11],"['2022-10-11' '2022-11-11' '2022-12-11' '2023-01-11' '2023-02-11'
+ '2023-03-11' '2023-04-11' '2023-05-11' '2023-06-11' '2023-07-11'
+ '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],6.25,8,0.6666666666666666,alto,alto,True,False,True,False,False,False,True
+3007562325_JADETE CORREIA DAS NEVES,50.86,2023-09-01,14,[ 0  1  6  0  8 12 19 23 15 12 16 34 31  1],"['2022-08-11' '2022-09-11' '2022-10-11' '2022-11-11' '2022-12-11'
+ '2023-01-11' '2023-02-11' '2023-03-11' '2023-04-11' '2023-05-11'
+ '2023-06-11' '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",12.714285714285715,12,0.8571428571428571,alto,alto,True,False,True,False,False,True,True
+3000138448_GLAUBER VIANA MENDONCA,3458.63,2023-10-01,12,[ 3  1 10  0  4  1  0  7  9 10  0  2],"['2022-10-08' '2022-10-31' '2022-12-23' '2023-01-30' '2023-02-24'
+ '2023-03-23' '2023-04-24' '2023-05-23' '2023-06-26' '2023-07-23'
+ '2023-08-23' '2023-09-23']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],3.9166666666666665,9,0.75,alto,alto,True,False,True,False,False,True,True
+3013371569_PEDRO JOSE DOS SANTOS FILHO,372.65,2023-09-01,16,[-1  0  5  2  7 12  2  0  9  4  1  7 24  2  3  0],"['2022-08-09' '2022-09-02' '2022-10-27' '2023-01-02' '2023-01-12'
+ '2023-02-02' '2023-02-12' '2023-03-02' '2023-03-12' '2023-04-02'
+ '2023-05-02' '2023-06-02' '2023-07-02' '2023-08-02' '2023-09-02'
+ '2023-10-02']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Parcelado' 'Ativo Original' 'Ativo Parcelado' 'Ativo Original'
+ 'Ativo Parcelado' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True]","[False False False False False False False False False False False False
+ False False False False]",4.8125,12,0.75,alto,alto,True,False,True,False,False,True,True
+3002108355_LUCIANO BARBARA DA SILVA,0.0,2023-09-01,14,[ 6 10  9 14 29 19 25 23 30 18  4 23  6 10],"['2022-08-11' '2022-09-11' '2022-10-11' '2022-11-11' '2022-12-11'
+ '2023-01-11' '2023-02-11' '2023-03-11' '2023-04-11' '2023-05-11'
+ '2023-06-11' '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",16.142857142857142,14,1.0,alto,alto,True,False,True,False,False,False,True
+3001015626_DAVID GOMES DA SILVA,61.48,2023-09-01,15,[ 0  0  0 -1 31  4  4  0  3  6  5  1  0 -1  0],"['2022-08-02' '2022-09-02' '2022-10-27' '2022-11-02' '2022-12-02'
+ '2023-01-02' '2023-02-02' '2023-03-02' '2023-04-02' '2023-05-02'
+ '2023-06-02' '2023-07-02' '2023-08-02' '2023-09-05' '2023-10-02']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True]","[False False False False False False False False False False False False
+ False False False]",3.4666666666666672,7,0.4666666666666667,alto,alto,True,False,True,False,False,True,True
+3012155943_GUILHERME ELIAS GONCALVES 13374312659,0.0,2023-09-01,10,[18  4  0  1  1  4  1 -1 -1  0],"['2023-01-02' '2023-02-02' '2023-03-02' '2023-04-02' '2023-05-02'
+ '2023-06-02' '2023-07-02' '2023-08-02' '2023-09-02' '2023-10-02']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False],2.6999999999999997,6,0.6,alto,alto,True,False,True,False,False,False,True
+3007104955_JUAREZ COELHO FRUTUOSO,0.0,2023-09-01,12,[0 5 5 0 3 6 2 4 1 3 0 2],"['2022-10-11' '2022-11-11' '2022-12-11' '2023-01-11' '2023-02-13'
+ '2023-03-11' '2023-04-11' '2023-05-11' '2023-07-11' '2023-08-11'
+ '2023-08-23' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Parcelado' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],2.5833333333333335,9,0.75,alto,alto,True,False,True,False,False,False,True
+3011653236_MAURO ROSSI LOPES JUNIOR,0.0,2023-09-01,14,[30 25 11  9 20 12 12 12 10 10 11 11 10 10],"['2022-08-22' '2022-09-22' '2022-10-27' '2022-11-22' '2022-12-22'
+ '2023-01-22' '2023-02-22' '2023-03-22' '2023-04-22' '2023-05-22'
+ '2023-06-22' '2023-07-22' '2023-08-22' '2023-09-22']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",13.785714285714285,14,1.0,alto,alto,True,False,True,False,False,False,True
+3002500031_THULIO REIS COSTA,0.0,2023-09-01,14,[-1  8  6  5  9  6  4  2  8 11 12 28 10  9],"['2022-08-11' '2022-09-11' '2022-10-11' '2022-11-11' '2022-12-11'
+ '2023-01-11' '2023-02-11' '2023-03-11' '2023-04-11' '2023-05-11'
+ '2023-06-11' '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",8.357142857142856,13,0.9285714285714286,alto,alto,True,False,True,False,False,False,True
+3001805323_VALDECI DA ROCHA RIBEIRO,0.0,2023-09-01,15,[14 18 13 18 23 20 17 18 17 19 20 21 20 22  1],"['2022-08-12' '2022-09-10' '2022-10-13' '2022-11-10' '2022-12-10'
+ '2023-01-10' '2023-02-10' '2023-03-10' '2023-04-10' '2023-05-10'
+ '2023-06-10' '2023-07-10' '2023-08-10' '2023-09-10' '2023-10-10']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True False]","[False False False False False False False False False False False False
+ False False False]",17.400000000000002,15,1.0,alto,alto,False,False,True,False,False,False,True
+3007672365_MARILIA GUEDES AGUIAR,0.0,2023-09-01,14,[  2   0   5   6  10   2   4  -8 -17   3  41   3  -1   9],"['2022-08-02' '2022-09-02' '2022-10-27' '2022-11-02' '2022-12-02'
+ '2023-01-02' '2023-02-02' '2023-03-02' '2023-04-02' '2023-05-02'
+ '2023-06-02' '2023-07-02' '2023-09-13' '2023-10-02']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Parcelado' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True False]","[False False False False False False False False False False False False
+ False False]",4.214285714285714,10,0.7142857142857143,alto,alto,False,False,True,False,False,False,True
+3001685671_ROSIMEIRE OLIMPIO DE SOUSA,0.0,2023-09-01,13,[14  6  0  3  0  2  2  0  1  2  0  0  0],"['2022-08-11' '2022-10-11' '2022-11-11' '2022-12-11' '2023-01-11'
+ '2023-02-11' '2023-03-11' '2023-04-11' '2023-05-11' '2023-06-11'
+ '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True]","[False False False False False False False False False False False False
+ False]",2.3076923076923075,7,0.5384615384615384,alto,alto,True,False,True,False,False,False,True
+3011858671_DEUSDELIA LAMOUNIER DE JESUS,0.0,2023-10-01,10,[17  5 10 16 -5 11 14 13  3  0],"['2022-12-30' '2023-01-25' '2023-02-25' '2023-03-25' '2023-04-25'
+ '2023-05-25' '2023-06-26' '2023-07-25' '2023-08-25' '2023-09-25']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False],8.4,8,0.8,alto,alto,True,False,True,False,False,False,True
+3005934755_ALEXANDRE ALVES ANTONIO,159.06,2023-10-01,11,[ 6  1  0 -9  0 11  1 -3 10 10  4],"['2022-11-23' '2022-12-22' '2023-01-30' '2023-02-24' '2023-03-22'
+ '2023-04-22' '2023-05-22' '2023-06-30' '2023-07-22' '2023-08-22'
+ '2023-09-22']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False],2.8181818181818183,7,0.6363636363636364,alto,alto,True,False,True,False,False,True,True
+3001418187_LAIR NAZARE DA CUNHA,0.0,2023-09-01,15,[-1 10 29 24 17 14 19 22 19 10 14 29 16 16  6],"['2022-08-09' '2022-09-05' '2022-10-05' '2022-11-05' '2022-12-05'
+ '2023-01-05' '2023-02-05' '2023-03-05' '2023-04-05' '2023-05-05'
+ '2023-06-05' '2023-07-05' '2023-08-05' '2023-09-05' '2023-10-05']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True False]","[False False False False False False False False False False False False
+ False False False]",16.266666666666662,14,0.9333333333333333,alto,alto,False,False,True,False,False,False,True
+3013981345_JOSSELITO LUIZ DE PAIVA,0.0,2023-09-01,15,[ 0  0  1  1  0  0  0  0  2  1  0  1  5 -1  9],"['2022-08-02' '2022-09-02' '2022-10-02' '2022-11-02' '2022-12-02'
+ '2023-01-02' '2023-02-02' '2023-03-02' '2023-04-02' '2023-05-02'
+ '2023-06-02' '2023-07-02' '2023-08-02' '2023-09-05' '2023-10-02']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True False]","[False False False False False False False False False False False False
+ False False False]",1.2666666666666666,7,0.4666666666666667,alto,alto,False,False,True,False,False,False,True
+3006632734_LUCIANO CRISPIM PINTO,21.53,2023-09-01,10,[-3 -2  2 12 10 14  1 10 14  6],"['2023-01-05' '2023-02-05' '2023-03-05' '2023-04-05' '2023-05-05'
+ '2023-06-05' '2023-07-05' '2023-08-05' '2023-09-05' '2023-10-05']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True False],[False False False False False False False False False False],6.4,8,0.8,alto,alto,False,False,True,False,False,True,True
+3002098356_EDMAR ALVARENGA,0.0,2023-09-01,14,[ 12   8   6  11   8  12  10  11   9  55 -12   7   4  10],"['2022-08-18' '2022-09-18' '2022-10-18' '2022-11-18' '2022-12-18'
+ '2023-01-18' '2023-02-18' '2023-03-18' '2023-04-18' '2023-05-18'
+ '2023-06-18' '2023-07-18' '2023-08-18' '2023-09-18']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",10.785714285714283,13,0.9285714285714286,alto,alto,True,False,True,False,False,False,True
+3002145316_MARIA JOSE MIGNACCA D AGOSTINI,0.0,2023-09-01,11,[17  1 20 -1  1 26 10 42 12  2  1],"['2022-10-14' '2022-12-14' '2023-01-14' '2023-02-14' '2023-03-14'
+ '2023-04-14' '2023-05-15' '2023-06-14' '2023-07-14' '2023-08-14'
+ '2023-09-14']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False],11.90909090909091,10,0.9090909090909091,alto,alto,True,False,True,False,False,False,True
+3000574006_JOSE FARIDES DOS SANTOS,0.0,2023-09-01,13,[ 6  9  2  9  9  9 16 16 11  6 13  9  9],"['2022-10-08' '2022-11-01' '2022-12-03' '2023-01-01' '2023-02-01'
+ '2023-03-01' '2023-04-01' '2023-05-01' '2023-06-01' '2023-07-01'
+ '2023-08-01' '2023-09-04' '2023-10-02']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+ False]","[False False False False False False False False False False False False
+ False]",9.538461538461537,13,1.0,alto,alto,False,False,True,False,False,False,True
+3001841595_CARLOS FERNANDES SOBRINHO,59.22,2023-09-01,11,[-4 -7 -1 11  8 18 10  8  6  8  6],"['2022-12-04' '2023-01-04' '2023-02-04' '2023-03-04' '2023-04-04'
+ '2023-05-04' '2023-06-04' '2023-07-04' '2023-08-04' '2023-09-04'
+ '2023-10-04']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False],5.7272727272727275,8,0.7272727272727273,alto,alto,True,False,True,False,False,True,True
+3003646066_REGINA ROCHA DE OLIVEIRA,0.0,2023-09-01,14,[ 1  2  0  1  2  0  5  3  0  0 27  1 11  1],"['2022-08-17' '2022-09-17' '2022-10-17' '2022-11-17' '2022-12-17'
+ '2023-01-17' '2023-02-17' '2023-03-17' '2023-04-17' '2023-05-17'
+ '2023-06-17' '2023-07-17' '2023-08-17' '2023-09-17']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",3.8571428571428568,10,0.7142857142857143,alto,alto,True,False,True,False,False,False,True
+3000218923_LEVINDO LOURENCO NETO,0.0,2023-09-01,11,[8 1 0 1 1 1 2 1 0 1 2],"['2022-10-13' '2022-11-13' '2023-01-13' '2023-02-13' '2023-03-13'
+ '2023-04-13' '2023-05-13' '2023-06-13' '2023-07-17' '2023-08-13'
+ '2023-09-13']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False],1.6363636363636365,9,0.8181818181818182,alto,alto,True,False,True,False,False,False,True
+3005121926_ADIMAR MARTINS DA SILVA,0.0,2023-09-01,12,[ -9 -13  -2  -7  23   5   0  -1  29  28  -3   3],"['2022-09-01' '2022-09-11' '2022-10-13' '2023-01-11' '2023-02-11'
+ '2023-03-11' '2023-04-11' '2023-05-11' '2023-06-11' '2023-07-11'
+ '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],4.416666666666666,5,0.4166666666666667,alto,alto,True,False,True,False,False,False,True
+3010667339_MARCELO GODINHO SILVA,446.18,2023-10-01,10,[0 1 1 2 2 1 0 0 3 3],"['2022-11-25' '2022-12-25' '2023-01-25' '2023-02-25' '2023-03-25'
+ '2023-05-25' '2023-06-26' '2023-07-25' '2023-08-25' '2023-09-25']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False],1.2999999999999998,7,0.7,alto,alto,True,False,True,False,False,True,True
+3001655701_OSCAR BAUMGRATZ DE AGUIAR,35.28,2023-10-01,11,[12 24 33 12 -1  2  4  1 -4  7  4],"['2022-12-03' '2022-12-30' '2023-01-22' '2023-02-24' '2023-03-22'
+ '2023-04-24' '2023-05-22' '2023-06-26' '2023-07-22' '2023-08-22'
+ '2023-09-22']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False],8.545454545454545,9,0.8181818181818182,alto,alto,True,False,True,False,False,True,True
+3001404096_MILITAO MILTON OTONI,78.41,2023-10-01,14,[ 5  1  0  0  1  5 11  2 14  5 11 17  0  0],"['2022-08-11' '2022-09-11' '2022-10-11' '2022-11-11' '2022-12-11'
+ '2023-01-11' '2023-02-11' '2023-03-11' '2023-04-11' '2023-05-11'
+ '2023-06-11' '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",5.142857142857142,10,0.7142857142857143,alto,alto,True,False,True,False,False,True,True
+3002272425_KALIL AHMAD KHEIR EDDINE JUNIOR,0.0,2023-09-01,12,[10 -1 19 24 20 20 24 36 47 58 42 12],"['2022-08-13' '2022-09-13' '2022-10-13' '2022-11-13' '2022-12-13'
+ '2023-01-17' '2023-02-13' '2023-03-13' '2023-04-13' '2023-05-13'
+ '2023-06-13' '2023-07-13']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],25.916666666666664,11,0.9166666666666666,alto,alto,True,False,True,False,False,False,True
+3010132004_CELIO APARECIDO DE SOUZA,0.0,2023-09-01,10,[ 3 -8  5 12 22 -8 -5  0 -3  1],"['2022-12-17' '2023-01-17' '2023-02-17' '2023-03-17' '2023-04-17'
+ '2023-05-17' '2023-06-17' '2023-07-17' '2023-08-17' '2023-09-17']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False],1.9000000000000008,5,0.5,alto,alto,True,False,True,False,False,False,True
+3010111609_CLEUZENIR DOS SANTOS,0.0,2023-09-01,14,[12  9  2 10  4  5 12 13  6  5  2  1  3  0],"['2022-08-11' '2022-09-11' '2022-10-11' '2022-11-11' '2022-12-11'
+ '2023-01-11' '2023-02-11' '2023-03-11' '2023-04-11' '2023-05-11'
+ '2023-06-11' '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",6.0,13,0.9285714285714286,alto,alto,True,False,True,False,False,False,True
+3013004617_GILSIVAN MARTINS XAVIER COSTA,0.0,2023-09-01,14,[ 17 -28  32 -29   0   1   0  22  23  23  12  19   0   0],"['2022-08-22' '2022-09-22' '2022-10-22' '2022-11-22' '2022-12-22'
+ '2023-01-22' '2023-02-22' '2023-03-22' '2023-04-22' '2023-05-22'
+ '2023-06-22' '2023-07-22' '2023-08-22' '2023-09-22']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",6.571428571428571,8,0.5714285714285714,alto,alto,True,False,True,False,False,False,True
+3001693079_ILDO CANDIDO DA FONSECA ME,0.0,2023-09-01,9,[ 5  8  7 13 12 33 24  1 18],"['2023-01-14' '2023-02-14' '2023-03-14' '2023-04-14' '2023-05-14'
+ '2023-06-14' '2023-07-14' '2023-08-14' '2023-09-14']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']",[ True  True  True  True  True  True  True  True  True],[False False False False False False False False False],13.444444444444445,9,1.0,alto,alto,True,False,True,False,False,False,True
+3003083140_MARTA ALVES RIBEIRO,6.83,2023-09-01,11,[ 4  0  2  9  7  5  8 33  3  0  4],"['2022-10-14' '2022-11-14' '2023-01-14' '2023-02-14' '2023-03-14'
+ '2023-04-14' '2023-05-14' '2023-06-14' '2023-07-14' '2023-08-14'
+ '2023-09-14']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False],6.818181818181818,9,0.8181818181818182,alto,alto,True,False,True,False,False,True,True
+3011568336_RITA CANDIDA DA SILVA MENDES,0.0,2023-09-01,13,[ 0  0  0  1 -1  0  6  7  4  2  0  0  1],"['2022-08-08' '2022-09-08' '2022-10-13' '2023-01-08' '2023-02-08'
+ '2023-03-08' '2023-04-08' '2023-05-08' '2023-06-08' '2023-07-08'
+ '2023-08-08' '2023-09-08' '2023-10-08']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True]","[False False False False False False False False False False False False
+ False]",1.538461538461538,6,0.46153846153846156,alto,alto,True,False,True,False,False,False,True
+3002879137_PAULO FRANCISCO ARAUJO,0.0,2023-09-01,14,[ 0  1  0  3  2  5 11  9  2  0  1  1  5  0],"['2022-08-12' '2022-09-11' '2022-10-11' '2022-11-11' '2022-12-11'
+ '2023-01-11' '2023-02-11' '2023-03-11' '2023-04-11' '2023-05-11'
+ '2023-06-11' '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",2.8571428571428563,10,0.7142857142857143,alto,alto,True,False,True,False,False,False,True
+3012728543_ANDRE MENDES DE OLIVEIRA,0.0,2023-09-01,12,[ 6  6  2  1  7 13  9 11  3  8 11 10],"['2022-10-08' '2022-11-01' '2023-01-01' '2023-02-01' '2023-03-01'
+ '2023-04-01' '2023-05-01' '2023-06-01' '2023-07-01' '2023-08-01'
+ '2023-09-01' '2023-10-01']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True False],[False False False False False False False False False False False False],7.250000000000001,12,1.0,alto,alto,False,False,True,False,False,False,True
+3005709435_SESAR PAULO TAUFFER,0.0,2023-09-01,15,[-1  0  1  1  3  1  1  4 15 13  7 23 13 17  9],"['2022-08-02' '2022-09-02' '2022-10-02' '2022-11-02' '2022-12-02'
+ '2023-01-02' '2023-02-02' '2023-03-02' '2023-04-02' '2023-05-02'
+ '2023-06-02' '2023-07-02' '2023-08-04' '2023-09-02' '2023-10-02']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True False]","[False False False False False False False False False False False False
+ False False False]",7.133333333333333,13,0.8666666666666667,alto,alto,False,False,True,False,False,False,True
+3000626112_GISLEI ALMEIDA OLIVEIRA,137.87,2023-09-01,16,[ 3 15  0  1 10  2  5  4  7  4  5 31 12  5  6  5],"['2022-08-06' '2022-09-06' '2022-09-14' '2022-10-13' '2022-11-14'
+ '2022-12-06' '2023-01-06' '2023-02-06' '2023-03-06' '2023-04-06'
+ '2023-05-06' '2023-06-06' '2023-07-06' '2023-08-06' '2023-09-06'
+ '2023-10-06']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True False]","[False False False False False False False False False False False False
+ False False False False]",7.1875,15,0.9375,alto,alto,False,False,True,False,False,True,True
+3000725027_GILSON FERNANDES,113.12,2023-09-01,18,[-2  2  0  6  2  0  5  1  1 30 30 23  0  0 18 -1 -8 17],"['2022-08-17' '2022-09-17' '2022-10-27' '2022-11-17' '2022-12-17'
+ '2023-01-17' '2023-02-17' '2023-04-10' '2023-04-10' '2023-05-10'
+ '2023-05-10' '2023-05-17' '2023-06-09' '2023-06-09' '2023-06-17'
+ '2023-08-10' '2023-08-17' '2023-09-17']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Parcelado'
+ 'Ativo Parcelado' 'Ativo Parcelado' 'Ativo Parcelado' 'Ativo Original'
+ 'Ativo Parcelado' 'Ativo Parcelado' 'Ativo Original' 'Ativo Parcelado'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True]","[False False False False False False False False False False False False
+ False False False False False False]",6.888888888888888,11,0.6111111111111112,alto,alto,True,False,True,False,False,True,True
+3005293514_JULIANO SILVA DIAS,0.0,2023-09-01,15,[37 30 15 33 32 31 27 38 29 33 37 29 26 29  1],"['2022-08-10' '2022-09-10' '2022-10-27' '2022-11-10' '2022-12-10'
+ '2023-01-10' '2023-02-10' '2023-03-10' '2023-04-10' '2023-05-10'
+ '2023-06-10' '2023-07-10' '2023-08-10' '2023-09-10' '2023-10-10']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True False]","[False False False False False False False False False False False False
+ False False False]",28.466666666666665,15,1.0,alto,alto,False,False,True,False,False,False,True
+3014065917_JOSE CELIO DE OLIVEIRA,47.03,2023-09-01,12,[0 7 1 5 2 2 0 0 1 0 0 0],"['2022-10-27' '2022-11-11' '2022-12-11' '2023-01-11' '2023-02-11'
+ '2023-03-11' '2023-04-11' '2023-05-11' '2023-06-11' '2023-07-11'
+ '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],1.5,6,0.5,alto,alto,True,False,True,False,False,True,True
+3004706062_NILZA ALVES SANCHES,20.08,2023-10-01,13,[ 0  3  0  0  0  5  3  5  9 45 10 28 12],"['2022-08-23' '2022-09-20' '2022-10-24' '2022-11-23' '2022-12-21'
+ '2023-01-21' '2023-02-24' '2023-03-17' '2023-04-24' '2023-05-22'
+ '2023-06-26' '2023-07-24' '2023-09-29']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+ False]","[False False False False False False False False False False False False
+ False]",9.23076923076923,9,0.6923076923076923,alto,alto,False,False,True,False,False,True,True
+3012667267_DANIEL PEREIRA ASSIS JORGE,277.29,2023-10-01,14,[-1  5  1 -2  0  2  4  5  0  7  6  0  8  5],"['2022-08-23' '2022-09-22' '2022-10-24' '2022-11-23' '2022-12-22'
+ '2023-01-22' '2023-02-24' '2023-03-22' '2023-04-24' '2023-05-23'
+ '2023-06-30' '2023-08-04' '2023-08-22' '2023-09-22']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",2.857142857142857,9,0.6428571428571429,alto,alto,True,False,True,False,False,True,True
+3014067361_RICARDO DE LIMA SILVA,0.0,2023-09-01,14,[0 1 0 0 1 0 2 2 0 0 3 7 0 0],"['2022-08-11' '2022-09-11' '2022-10-27' '2022-11-11' '2022-12-11'
+ '2023-01-11' '2023-02-11' '2023-03-11' '2023-04-11' '2023-05-11'
+ '2023-06-11' '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",1.1428571428571428,6,0.42857142857142855,alto,alto,True,False,True,False,False,False,True
+3012152633_SERGIO CARLOS CABRAL,0.0,2023-09-01,15,[ 5  2  4  4  0  3  1  3  8 10 24 19  3 12  5],"['2022-08-06' '2022-09-06' '2022-10-06' '2022-11-06' '2022-12-06'
+ '2023-01-06' '2023-02-06' '2023-03-06' '2023-04-06' '2023-05-06'
+ '2023-06-06' '2023-07-06' '2023-08-06' '2023-09-06' '2023-10-06']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True False]","[False False False False False False False False False False False False
+ False False False]",6.866666666666666,14,0.9333333333333333,alto,alto,False,False,True,False,False,False,True
+3005842710_MARCIA BRAGA BITARAES SILVA,0.0,2023-09-01,13,[ 0  5  6  3  2  2  9 -1  0 11 15  0  4],"['2022-08-04' '2022-09-04' '2022-10-04' '2022-11-04' '2022-12-04'
+ '2023-01-04' '2023-02-04' '2023-03-04' '2023-04-04' '2023-05-04'
+ '2023-06-04' '2023-08-04' '2023-09-04']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True]","[False False False False False False False False False False False False
+ False]",4.307692307692308,9,0.6923076923076923,alto,alto,True,False,True,False,False,False,True
+3010116225_VANILZA DE CARVALHO BRITO ALMEIDA,0.0,2023-09-01,13,[ 5 18  1  2 -8  0  0  0  5  4  0  4  4],"['2022-08-19' '2022-10-27' '2022-11-17' '2022-12-17' '2023-01-17'
+ '2023-02-17' '2023-03-17' '2023-04-17' '2023-05-17' '2023-06-17'
+ '2023-07-17' '2023-08-17' '2023-09-17']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True]","[False False False False False False False False False False False False
+ False]",2.692307692307692,8,0.6153846153846154,alto,alto,True,False,True,False,False,False,True
+3000638888_GILBERTO ANTONIO DA SILVA,0.0,2023-09-01,14,[4 3 7 4 5 5 4 3 2 4 2 7 3 1],"['2022-08-18' '2022-09-18' '2022-10-18' '2022-11-18' '2022-12-18'
+ '2023-01-18' '2023-02-18' '2023-03-18' '2023-04-18' '2023-05-18'
+ '2023-06-18' '2023-07-18' '2023-08-18' '2023-09-18']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",3.8571428571428568,14,1.0,alto,alto,True,False,True,False,False,False,True
+3007609811_EDILEUSA DE OLIVEIRA FEITOSA,0.0,2023-09-01,14,[ -9 -16 -11  -1   0 -11  -1  15  16  16  23  26   4   1],"['2022-08-12' '2022-09-10' '2022-10-10' '2022-12-30' '2023-01-10'
+ '2023-02-10' '2023-03-10' '2023-04-10' '2023-05-10' '2023-06-10'
+ '2023-07-10' '2023-08-10' '2023-09-10' '2023-10-10']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True False]","[False False False False False False False False False False False False
+ False False]",3.7142857142857135,7,0.5,alto,alto,False,False,True,False,False,False,True
+3002300134_ELTON MUNHOZ DIAS JUNIOR,964.12,2023-09-01,9,[9 0 3 2 1 0 1 1 0],"['2022-12-11' '2023-01-11' '2023-02-11' '2023-03-11' '2023-04-11'
+ '2023-05-11' '2023-06-11' '2023-07-11' '2023-08-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']",[ True  True  True  True  True  True  True  True  True],[False False False False False False False False False],1.8888888888888888,6,0.6666666666666666,alto,alto,True,False,True,False,False,True,True
+3001588263_RENATO JOSE DE ALMEIDA,182.04,2023-10-01,12,[  8  10  -5  29  10  12 -10   1   4  11  11   0],"['2022-08-23' '2022-09-24' '2022-12-03' '2022-12-26' '2022-12-27'
+ '2023-01-22' '2023-02-24' '2023-03-22' '2023-04-24' '2023-06-26'
+ '2023-07-22' '2023-08-18']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Parcelado']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],6.750000000000001,9,0.75,alto,alto,True,False,True,False,False,True,True
+3000626114_CECILIA LUIZINHA ALMEIDA DE OLIVEIRA,0.0,2023-09-01,14,[ 6  9  2 13  6  5  3  8  7  9 17  8  4  5],"['2022-08-27' '2022-10-31' '2022-11-05' '2022-12-03' '2022-12-30'
+ '2023-01-27' '2023-02-27' '2023-03-27' '2023-04-27' '2023-05-27'
+ '2023-06-27' '2023-07-27' '2023-08-27' '2023-09-27']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",7.2857142857142865,14,1.0,alto,alto,True,False,True,False,False,False,True
+3005197147_JOAO BOSCO DA SE,0.0,2023-09-01,11,[19  1  0  2  2  0  0  1  0  0  0],"['2022-11-11' '2022-12-11' '2023-01-11' '2023-02-11' '2023-03-11'
+ '2023-04-11' '2023-05-11' '2023-06-11' '2023-07-11' '2023-08-11'
+ '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False],2.2727272727272725,5,0.45454545454545453,alto,alto,True,False,True,False,False,False,True
+3001154564_MARIA DAS GRACAS DE SOUZA,92.29,2023-10-01,11,[ 8 11  5  0  8  2  4  5  6  7  6],"['2022-11-23' '2022-12-22' '2023-01-22' '2023-02-24' '2023-03-22'
+ '2023-04-24' '2023-05-22' '2023-06-24' '2023-07-22' '2023-08-22'
+ '2023-09-22']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False],5.636363636363637,10,0.9090909090909091,alto,alto,True,False,True,False,False,True,True
+3000991672_MANOEL JUNIOR FERREIRA ESPERANCA,35.68,2023-09-01,10,[ 0 14 11 25  0  0  1 -1  4  0],"['2022-12-02' '2023-01-02' '2023-02-02' '2023-03-02' '2023-05-02'
+ '2023-06-02' '2023-07-02' '2023-08-02' '2023-09-02' '2023-10-02']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False],5.4,5,0.5,alto,alto,True,False,True,False,False,True,True
+3002199814_CATARINA MARTINS DAS DORES,72.85,2023-10-01,12,[ 0  6 10  8  9  2  0 29 -9  0  0  0],"['2022-10-31' '2022-11-25' '2022-12-25' '2023-01-30' '2023-02-25'
+ '2023-03-25' '2023-04-25' '2023-05-25' '2023-06-29' '2023-07-25'
+ '2023-08-25' '2023-09-25']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],4.583333333333333,6,0.5,alto,alto,True,False,True,False,False,True,True
+3010819918_ILDEFONSO DA SILVA GOMES NETO,0.0,2023-09-01,15,[ 0  4  2 -1  0  5  4  3  1  3  4  9  2  6  0],"['2022-08-05' '2022-09-05' '2022-10-05' '2022-11-05' '2022-12-05'
+ '2023-01-05' '2023-02-05' '2023-03-05' '2023-04-05' '2023-05-05'
+ '2023-06-05' '2023-07-05' '2023-08-05' '2023-09-05' '2023-10-05']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True]","[False False False False False False False False False False False False
+ False False False]",2.8,11,0.7333333333333333,alto,alto,True,False,True,False,False,False,True
+3006708175_JULIANA BATISTA DIAS,0.0,2023-09-01,15,[ 0 -1  1  7  3 10  4 12  4 13  0  9  0  4  9],"['2022-08-02' '2022-09-02' '2022-10-02' '2022-11-02' '2022-12-02'
+ '2023-01-02' '2023-02-02' '2023-03-02' '2023-04-02' '2023-05-02'
+ '2023-06-02' '2023-07-02' '2023-08-02' '2023-09-02' '2023-10-02']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True False]","[False False False False False False False False False False False False
+ False False False]",5.0,11,0.7333333333333333,alto,alto,False,False,True,False,False,False,True
+3012129331_FRANCISCO CARLOS DA SILVA,86.15,2023-09-01,12,[11  0  0  1 -2  1  0  1  0  2 -1 -3],"['2022-11-05' '2022-12-05' '2023-01-05' '2023-02-05' '2023-03-05'
+ '2023-04-05' '2023-05-05' '2023-06-05' '2023-07-05' '2023-08-05'
+ '2023-09-05' '2023-10-05']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],0.8333333333333333,5,0.4166666666666667,alto,alto,True,False,True,False,False,True,True
+3007566979_SEBASTIAO ADRIANO BERNARDO,46.28,2023-10-01,14,[16 20 17 12 -1 11 10  8 11 23 11 15 12 16],"['2022-08-23' '2022-09-23' '2022-10-24' '2022-11-23' '2022-12-23'
+ '2023-01-23' '2023-02-24' '2023-03-23' '2023-04-24' '2023-05-23'
+ '2023-06-26' '2023-07-23' '2023-08-23' '2023-09-23']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",12.928571428571427,13,0.9285714285714286,alto,alto,True,False,True,False,False,True,True
+3005937800_CARLOS VIEIRA SOARES,9.07,2023-09-01,13,[10 11 12  6 11 12 17 16 14 27 24 28  7],"['2022-08-05' '2022-09-05' '2022-10-05' '2022-11-05' '2022-12-05'
+ '2023-01-05' '2023-02-05' '2023-03-05' '2023-04-05' '2023-05-05'
+ '2023-06-05' '2023-07-05' '2023-10-04']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+ False]","[False False False False False False False False False False False False
+ False]",15.0,13,1.0,alto,alto,False,False,True,False,False,True,True
+3001690542_MAURILIO DOS SANTOS ZACARIAS,0.0,2023-09-01,14,[ 2  2 13  1 -1 -1  0  0  4 -1 58  0  1  0],"['2022-08-06' '2022-09-06' '2022-10-06' '2022-11-06' '2022-12-06'
+ '2023-01-06' '2023-02-06' '2023-03-06' '2023-04-06' '2023-05-06'
+ '2023-06-06' '2023-07-06' '2023-08-06' '2023-09-06']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",5.571428571428572,7,0.5,alto,alto,True,False,True,False,False,False,True
+3003529849_ELI FERREIRA DA CUNHA,0.0,2023-09-01,9,[ 6  1 18 18 29 -1 31  1  2],"['2022-12-09' '2023-01-09' '2023-02-09' '2023-03-09' '2023-04-09'
+ '2023-05-09' '2023-06-09' '2023-07-09' '2023-10-09']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']",[ True  True  True  True  True  True  True  True False],[False False False False False False False False False],11.666666666666666,8,0.8888888888888888,alto,alto,False,False,True,False,False,False,True
+3004869512_LUIS CARLOS DA SILVA,0.0,2023-09-01,12,[0 0 1 0 0 2 1 0 6 0 0 4],"['2022-10-13' '2022-11-01' '2023-01-01' '2023-02-01' '2023-03-01'
+ '2023-04-01' '2023-05-01' '2023-06-01' '2023-07-01' '2023-08-01'
+ '2023-09-01' '2023-10-01']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],1.1666666666666665,5,0.4166666666666667,alto,alto,True,False,True,False,False,False,True
+3000201187_JULIANA MARCIA DA SILVEIRA,36.38,2023-09-01,15,[ 7 11  6  7  8  8 13 12  9  8 11  9  3  3  8],"['2022-08-09' '2022-09-01' '2022-10-01' '2022-11-01' '2022-12-01'
+ '2023-01-01' '2023-02-01' '2023-03-01' '2023-04-01' '2023-05-01'
+ '2023-06-01' '2023-07-01' '2023-08-01' '2023-09-01' '2023-10-01']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True]","[False False False False False False False False False False False False
+ False False False]",8.200000000000001,15,1.0,alto,alto,True,False,True,False,False,True,True
+3011936834_WAGNER DUARTE VIEIRA,0.0,2023-09-01,15,[  3  10  11   5  11   8 -13   0   1  -1  10  -3  -2  -1   2],"['2022-08-09' '2022-09-09' '2022-10-09' '2022-11-09' '2022-12-09'
+ '2023-01-09' '2023-02-09' '2023-03-09' '2023-04-09' '2023-05-09'
+ '2023-06-09' '2023-07-09' '2023-08-09' '2023-09-09' '2023-10-09']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True False]","[False False False False False False False False False False False False
+ False False False]",2.7333333333333334,9,0.6,alto,alto,False,False,True,False,False,False,True
+3010598851_ANTONIO GARIBALDE DE SOUZA,0.0,2023-09-01,12,[  0   9   8  13  10  -9 -14   8  20  74 -14   3],"['2022-08-17' '2022-09-17' '2022-10-17' '2023-01-17' '2023-02-17'
+ '2023-03-17' '2023-04-17' '2023-05-17' '2023-06-17' '2023-07-17'
+ '2023-08-17' '2023-09-17']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],9.000000000000002,8,0.6666666666666666,alto,alto,True,False,True,False,False,False,True
+3002878539_CARLOS ALBERTO SANTOS,0.0,2023-09-01,14,[ -5   6   2  -2  24  32   1  21   5  22 -17  -4  21   0],"['2022-08-22' '2022-09-22' '2022-10-22' '2022-12-22' '2022-12-26'
+ '2023-01-22' '2023-02-22' '2023-03-22' '2023-04-22' '2023-05-22'
+ '2023-06-22' '2023-07-22' '2023-08-22' '2023-09-22']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",7.571428571428573,9,0.6428571428571429,alto,alto,True,False,True,False,False,False,True
+3000880804_DECIO PEREIRA DOS SANTOS,0.0,2023-09-01,12,[ 2  1  0 -1  1  4  0  3  1  5  2  1],"['2022-10-08' '2022-11-02' '2023-01-02' '2023-02-02' '2023-03-02'
+ '2023-04-02' '2023-05-02' '2023-06-02' '2023-07-02' '2023-08-02'
+ '2023-09-02' '2023-10-02']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],1.5833333333333335,9,0.75,alto,alto,True,False,True,False,False,False,True
+3000696409_RENATO BARCELOS,0.0,2023-09-01,12,[14 29 -4 14 12  0  0 26 22 32 30  9],"['2022-08-02' '2022-09-01' '2022-10-01' '2022-12-30' '2023-01-01'
+ '2023-02-01' '2023-03-01' '2023-04-01' '2023-05-01' '2023-06-01'
+ '2023-08-01' '2023-10-01']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],15.333333333333334,9,0.75,alto,alto,True,False,True,False,False,False,True
+3000516875_RESTAURANTE E CERVEJARIA SAO JOSE LTDA,2514.2,2023-10-01,12,[16 11 10 23 32 39 33 23 28 25 29 19],"['2022-08-23' '2022-09-22' '2022-10-24' '2022-11-23' '2022-12-22'
+ '2023-01-22' '2023-02-24' '2023-03-22' '2023-04-24' '2023-07-22'
+ '2023-08-22' '2023-09-22']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True False],[False False False False False False False False False False False False],24.0,12,1.0,alto,alto,False,False,True,False,False,True,True
+3001411154_MARIA BEATRIZ DE PAULA ROCHA,0.0,2023-10-01,14,[ 0  8  1  0  6  1 -1  5  0  0  8  7  0  3],"['2022-08-23' '2022-09-22' '2022-10-24' '2022-11-23' '2022-12-22'
+ '2023-01-22' '2023-02-24' '2023-03-22' '2023-04-24' '2023-05-22'
+ '2023-06-26' '2023-07-24' '2023-09-05' '2023-09-30']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",2.714285714285714,8,0.5714285714285714,alto,alto,True,False,True,False,False,False,True
+3001656822_LUCIANA LUZIA LEANDRO SILVEIRA,0.0,2023-09-01,11,[  0  17  11  35 -13   4  12   3   0   1   1],"['2022-10-13' '2022-11-13' '2023-01-13' '2023-02-13' '2023-03-13'
+ '2023-04-13' '2023-05-13' '2023-06-13' '2023-07-17' '2023-08-13'
+ '2023-09-13']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False],6.454545454545455,8,0.7272727272727273,alto,alto,True,False,True,False,False,False,True
+3007761373_MAURO GOMES DA SILVA,0.0,2023-09-01,14,[-2 -9 -2 -1  2 -1  7 10 21 -9 20 14  5 10],"['2022-08-17' '2022-09-17' '2022-10-27' '2022-11-17' '2022-12-17'
+ '2023-01-17' '2023-02-17' '2023-03-17' '2023-04-17' '2023-05-17'
+ '2023-06-17' '2023-07-17' '2023-08-17' '2023-09-17']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",4.642857142857142,8,0.5714285714285714,alto,alto,True,False,True,False,False,False,True
+3000373612_CLAUDIONOR GUMERCINDO TEIXEIRA,96.86,2023-09-01,9,[22 14 12 23 30 27 25 26  6],"['2022-12-05' '2023-01-05' '2023-02-05' '2023-03-05' '2023-04-05'
+ '2023-05-05' '2023-06-05' '2023-07-05' '2023-10-05']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']",[ True  True  True  True  True  True  True  True False],[False False False False False False False False False],20.555555555555557,9,1.0,alto,alto,False,False,True,False,False,True,True
+3006183306_CLAUDEMIR FLORES MENDES,1086.73,2023-10-01,12,[-1 -3  0 -2 11  0  3  5 10  4  3  0],"['2022-08-23' '2022-09-22' '2022-10-24' '2022-11-23' '2022-12-22'
+ '2023-01-30' '2023-02-24' '2023-03-22' '2023-04-28' '2023-06-29'
+ '2023-07-22' '2023-08-17']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Parcelado']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],2.5,6,0.5,alto,alto,True,False,True,False,False,True,True
+3011893762_NELSON SILVEIRA,0.0,2023-09-01,15,[12  9  7 11 11 20 19 19 21 20 17 18 20 24  8],"['2022-08-03' '2022-09-03' '2022-10-03' '2022-11-03' '2022-12-03'
+ '2023-01-03' '2023-02-03' '2023-03-03' '2023-04-03' '2023-05-03'
+ '2023-06-03' '2023-07-03' '2023-08-03' '2023-09-03' '2023-10-03']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True False]","[False False False False False False False False False False False False
+ False False False]",15.733333333333336,15,1.0,alto,alto,False,False,True,False,False,False,True
+3002461880_IRISLEIA SOUSA DA SILVA,0.0,2023-09-01,12,[5 4 7 0 5 5 8 5 5 7 1 3],"['2022-08-17' '2022-09-17' '2022-10-17' '2023-01-17' '2023-02-17'
+ '2023-03-17' '2023-04-17' '2023-05-17' '2023-06-17' '2023-07-17'
+ '2023-08-17' '2023-09-17']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],4.583333333333334,11,0.9166666666666666,alto,alto,True,False,True,False,False,False,True
+3006143389_NILTON PEREIRA ROSA,0.0,2023-09-01,14,[-1  4 -3 -1  1  0  2  2 -1  4  1 -1  5  0],"['2022-08-11' '2022-09-11' '2022-10-13' '2022-11-11' '2022-12-11'
+ '2023-01-11' '2023-02-11' '2023-03-11' '2023-04-11' '2023-05-11'
+ '2023-06-11' '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",0.8571428571428572,7,0.5,alto,alto,True,False,True,False,False,False,True
+3014635772_ANA PAULA COBUCCIO ALMEIDA,19.03,2023-09-01,15,[ 2  0 19 13  7 19  0  0  1 10 10  5  5  0  8],"['2022-12-03' '2023-01-03' '2023-02-03' '2023-03-03' '2023-04-03'
+ '2023-05-03' '2023-07-05' '2023-07-05' '2023-08-03' '2023-08-04'
+ '2023-08-04' '2023-09-03' '2023-09-03' '2023-09-06' '2023-10-03']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Parcelado' 'Ativo Parcelado'
+ 'Ativo Original' 'Ativo Parcelado' 'Ativo Parcelado' 'Ativo Parcelado'
+ 'Ativo Parcelado' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True False]","[False False False False False False False False False False False False
+ False False False]",6.599999999999999,11,0.7333333333333333,alto,alto,False,False,True,False,False,True,True
+3006241039_ROSANGELA SOARES,2195.89,2023-09-01,15,[ 4  0  7 -1  1  4  3  2  4  9 10 -7 -4 -4 -3],"['2022-08-05' '2022-09-08' '2022-10-06' '2022-11-08' '2022-12-05'
+ '2023-01-05' '2023-02-06' '2023-03-08' '2023-04-06' '2023-05-09'
+ '2023-06-09' '2023-07-10' '2023-08-08' '2023-09-12' '2023-10-09']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True]","[False False False False False False False False False False False False
+ False False False]",1.6666666666666667,9,0.6,alto,alto,True,False,True,False,False,True,True
+3006481727_ALESSANDRA FERREIRA DE ARAUJO,739.92,2023-09-01,10,[16  0 11 11 13 20 22 22 26  3],"['2022-12-11' '2023-01-11' '2023-02-13' '2023-03-11' '2023-04-11'
+ '2023-05-11' '2023-06-11' '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False],14.399999999999999,9,0.9,alto,alto,True,False,True,False,False,True,True
+3006851842_WALTER ANDRADE SANTOS,29.42,2023-09-01,11,[ 1  2  4  4  7  6  2 -1  8  6 12],"['2022-11-27' '2022-12-27' '2023-01-27' '2023-02-27' '2023-03-27'
+ '2023-04-27' '2023-05-27' '2023-06-27' '2023-07-27' '2023-09-05'
+ '2023-09-29']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True False],[False False False False False False False False False False False],4.636363636363637,10,0.9090909090909091,alto,alto,False,False,True,False,False,True,True
+3002873293_BAR LIGACAO DO MERCADO EIRELI,0.0,2023-09-01,10,[29 26 30 30 29 29 29 30 31 28],"['2022-12-11' '2023-01-11' '2023-02-11' '2023-03-11' '2023-04-11'
+ '2023-05-11' '2023-06-11' '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False],29.099999999999998,10,1.0,alto,alto,True,False,True,False,False,False,True
+3001949438_FERNANDO FREIRE DIAS,0.0,2023-09-01,12,[ 5 -1  0  1  1  6 10  0  0 -1  0  5],"['2022-10-05' '2022-11-05' '2023-01-05' '2023-02-05' '2023-03-05'
+ '2023-04-05' '2023-05-05' '2023-06-05' '2023-07-05' '2023-08-05'
+ '2023-09-05' '2023-10-05']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],2.166666666666667,6,0.5,alto,alto,True,False,True,False,False,False,True
+3010455592_JAYME CARVALHO FILHO,134.79,2023-09-01,13,[2 0 2 1 0 0 2 1 0 2 0 0 3],"['2022-10-08' '2022-11-01' '2022-12-03' '2023-01-01' '2023-02-01'
+ '2023-03-01' '2023-04-01' '2023-05-01' '2023-06-01' '2023-07-01'
+ '2023-08-01' '2023-09-05' '2023-10-01']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True]","[False False False False False False False False False False False False
+ False]",1.0,7,0.5384615384615384,alto,alto,True,False,True,False,False,True,True
+3002957885_EDUARDO BUENO,0.0,2023-09-01,14,[ 7  3  8  0  3  0  0  5 16 -2 -8  1 12  1],"['2022-08-17' '2022-09-17' '2022-10-17' '2022-11-17' '2022-12-17'
+ '2023-01-17' '2023-02-17' '2023-03-17' '2023-04-17' '2023-05-17'
+ '2023-06-17' '2023-07-17' '2023-08-17' '2023-09-17']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",3.2857142857142856,9,0.6428571428571429,alto,alto,True,False,True,False,False,False,True
+3013227563_ELISABETH DA SILVA SILVERIO GONCALVES,0.0,2023-09-01,12,[ 2 -1  1  0  0  4  0  4  2  0  0  1],"['2022-10-08' '2022-11-08' '2023-01-08' '2023-02-08' '2023-03-08'
+ '2023-04-08' '2023-05-08' '2023-06-08' '2023-07-08' '2023-08-08'
+ '2023-09-08' '2023-10-08']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],1.0833333333333333,6,0.5,alto,alto,True,False,True,False,False,False,True
+3003075425_MARIA DAS GRACAS DE CARVALHO,453.5,2023-09-01,7,[ 6 -9  1  2 12 28 -2],"['2022-08-12' '2022-10-13' '2023-01-10' '2023-02-13' '2023-03-10'
+ '2023-04-10' '2023-05-10']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True],[False False False False False False False],5.428571428571429,5,0.7142857142857143,alto,alto,True,False,True,False,False,True,True
+3007039014_LUCAS EMANUEL BORGES DE OLIVEIRA,0.0,2023-09-01,10,[-3 -8 -3  2  0  5 11 20  6  2],"['2022-12-11' '2023-01-11' '2023-02-11' '2023-03-11' '2023-04-11'
+ '2023-05-11' '2023-06-11' '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False],3.2,6,0.6,alto,alto,True,False,True,False,False,False,True
+3001923172_SEDE SOCIAL CULTURAL,194.0,2023-09-01,13,[ 0  1  0  6  1  0 -1  9 -1  9 36 19  1],"['2022-08-11' '2022-09-11' '2022-10-11' '2022-11-11' '2022-12-11'
+ '2023-01-11' '2023-02-11' '2023-03-11' '2023-05-11' '2023-06-11'
+ '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True]","[False False False False False False False False False False False False
+ False]",6.153846153846154,8,0.6153846153846154,alto,alto,True,False,True,False,False,True,True
+3000721197_CENTRO DE FORMACAO DE CONDUTORES,22.93,2023-09-01,15,[0 2 0 0 2 1 0 0 3 0 2 3 0 1 0],"['2022-08-03' '2022-09-03' '2022-10-13' '2022-11-03' '2022-12-03'
+ '2023-01-03' '2023-02-03' '2023-03-03' '2023-04-03' '2023-05-03'
+ '2023-06-03' '2023-07-03' '2023-08-03' '2023-09-03' '2023-10-03']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True]","[False False False False False False False False False False False False
+ False False False]",0.9333333333333332,7,0.4666666666666667,alto,alto,True,False,True,False,False,True,True
+3001180856_IRVANIA DA SILVA MORAIS,0.0,2023-09-01,12,[ 7  1  1  0  0  0  0  2 13  0  1  8],"['2022-10-13' '2022-11-13' '2022-12-13' '2023-01-13' '2023-02-13'
+ '2023-03-13' '2023-04-13' '2023-05-13' '2023-06-02' '2023-07-27'
+ '2023-08-27' '2023-09-27']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],2.75,7,0.5833333333333334,alto,alto,True,False,True,False,False,False,True
+3005550024_JEFERSON DE OLIVEIRA SANTOS,0.0,2023-09-01,12,[ 9  5  8 15 -3  3 15 -1 26 13  6  7],"['2022-10-11' '2022-11-11' '2022-12-11' '2023-01-11' '2023-02-13'
+ '2023-03-11' '2023-04-11' '2023-05-11' '2023-06-11' '2023-07-11'
+ '2023-08-11' '2023-09-13']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],8.583333333333332,10,0.8333333333333334,alto,alto,True,False,True,False,False,False,True
+3004184415_ANTÔNIO VITOR DO ROSARIO,28.76,2023-09-01,15,[ 2  0 14 11 10 10  7 14 12  5 20 13 15  8  5],"['2022-08-06' '2022-09-06' '2022-10-06' '2022-11-06' '2022-12-06'
+ '2023-01-06' '2023-02-06' '2023-03-06' '2023-04-06' '2023-05-06'
+ '2023-06-06' '2023-07-06' '2023-08-06' '2023-09-06' '2023-10-06']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True False]","[False False False False False False False False False False False False
+ False False False]",9.733333333333333,14,0.9333333333333333,alto,alto,False,False,True,False,False,True,True
+3001909329_BRUNO NUNES ARANTES COIMBRA,0.0,2023-09-01,12,[38  2 -1 12 -4  0 -8  6  7 12 15  1],"['2022-10-10' '2022-12-10' '2023-01-10' '2023-02-10' '2023-03-10'
+ '2023-04-10' '2023-05-10' '2023-06-10' '2023-07-10' '2023-08-10'
+ '2023-09-10' '2023-10-10']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True False],[False False False False False False False False False False False False],6.666666666666668,8,0.6666666666666666,alto,alto,False,False,True,False,False,False,True
+3013983480_CLEUZENIR DOS SANTOS,0.0,2023-09-01,14,[ 6  3  0  4 -2  0  6  7  0  0  2  0 14  1],"['2022-08-17' '2022-09-17' '2022-10-17' '2022-11-17' '2022-12-17'
+ '2023-01-17' '2023-02-17' '2023-03-17' '2023-04-17' '2023-05-17'
+ '2023-06-17' '2023-07-17' '2023-08-17' '2023-09-17']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",2.928571428571429,8,0.5714285714285714,alto,alto,True,False,True,False,False,False,True
+3010870896_IRACISLAU LOPO DURAES,0.0,2023-09-01,14,[1 4 6 5 4 1 4 5 3 1 5 6 5 3],"['2022-08-11' '2022-09-11' '2022-10-11' '2022-11-11' '2022-12-11'
+ '2023-01-11' '2023-02-11' '2023-03-11' '2023-04-11' '2023-05-11'
+ '2023-06-11' '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",3.7857142857142856,14,1.0,alto,alto,True,False,True,False,False,False,True
+3004349510_DECIDERIO CAMPOS DE ABREU,0.0,2023-09-01,10,[ 5 12 19 30 28 27 24 29 25  1],"['2022-12-11' '2023-01-11' '2023-02-11' '2023-03-11' '2023-04-11'
+ '2023-05-11' '2023-06-11' '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False],20.0,10,1.0,alto,alto,True,False,True,False,False,False,True
+3005606726_RAPHAEL CAVALCANTE CAMPOS DE LIMA,0.0,2023-09-01,14,[-2 13 -3 12 12  3  5  5  0 -1 47 17 11 -2],"['2022-08-12' '2022-09-10' '2022-10-27' '2022-11-10' '2022-12-10'
+ '2023-01-10' '2023-02-10' '2023-03-10' '2023-04-10' '2023-05-10'
+ '2023-06-10' '2023-07-10' '2023-08-10' '2023-09-10']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",8.357142857142856,9,0.6428571428571429,alto,alto,True,False,True,False,False,False,True
+3007205674_JOAO AILTON RAMOS,51.04,2023-09-01,15,[ 8 14  5  0  5  9 -1  5  5  0  3  5  6 27  2],"['2022-08-09' '2022-09-09' '2022-10-09' '2022-11-09' '2022-12-09'
+ '2023-01-09' '2023-02-09' '2023-03-09' '2023-04-09' '2023-05-09'
+ '2023-06-09' '2023-07-09' '2023-08-09' '2023-09-09' '2023-10-09']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True False]","[False False False False False False False False False False False False
+ False False False]",6.2,12,0.8,alto,alto,False,False,True,False,False,True,True
+3000150913_EVALDO CARLOS DA SILVA,220.09,2023-10-01,13,[ 7  1 -1 -1  4  6  7  3 23  9 11 -1  6],"['2022-09-22' '2022-10-24' '2022-11-23' '2022-12-22' '2023-01-22'
+ '2023-02-24' '2023-03-22' '2023-04-24' '2023-05-22' '2023-06-26'
+ '2023-07-24' '2023-09-05' '2023-09-30']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True]","[False False False False False False False False False False False False
+ False]",5.692307692307692,10,0.7692307692307693,alto,alto,True,False,True,False,False,True,True
+3013185633_MARIZETE DE ARAUJO DA SILVA MOURA,0.0,2023-09-01,14,[ 9  5 32 15 10  0  8  7  5  9  7 12  4  5],"['2022-08-27' '2022-10-27' '2022-10-31' '2022-11-27' '2022-12-27'
+ '2023-01-30' '2023-02-27' '2023-03-27' '2023-04-27' '2023-05-27'
+ '2023-06-30' '2023-07-27' '2023-09-04' '2023-09-27']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",9.142857142857142,13,0.9285714285714286,alto,alto,True,False,True,False,False,False,True
+3005968824_IDALIDES DINIZ DA COSTA,15.25,2023-09-01,14,[ 8  8  8 11  9  5  5  2  0  0  9  9  0  2],"['2022-08-11' '2022-09-11' '2022-10-11' '2022-11-11' '2022-12-11'
+ '2023-01-11' '2023-02-11' '2023-03-11' '2023-04-11' '2023-05-11'
+ '2023-06-11' '2023-07-11' '2023-08-11' '2023-09-11']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",5.428571428571429,11,0.7857142857142857,alto,alto,True,False,True,False,False,True,True
+3000100072_RAFAEL GERALDO DE ARAUJO,86.12,2023-10-01,13,[-1  5  4 10 10 10 20  5  3 52 14  8 10],"['2022-08-23' '2022-09-24' '2022-10-31' '2022-12-03' '2022-12-30'
+ '2023-01-21' '2023-02-24' '2023-03-17' '2023-04-24' '2023-05-19'
+ '2023-06-26' '2023-08-17' '2023-09-17']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True]","[False False False False False False False False False False False False
+ False]",11.538461538461538,12,0.9230769230769231,alto,alto,True,False,True,False,False,True,True
+3005320260_DAVID GOMES DA SILVA,128.47,2023-10-01,14,[-1 -3  0  5  4  1  3 14  0  0  0  2 -1  0],"['2022-08-23' '2022-10-13' '2022-10-24' '2022-11-23' '2022-12-22'
+ '2023-01-22' '2023-02-24' '2023-03-22' '2023-04-24' '2023-05-22'
+ '2023-06-26' '2023-07-22' '2023-08-22' '2023-09-22']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",1.714285714285714,6,0.42857142857142855,alto,alto,True,False,True,False,False,True,True
+3011307923_ERISVELTON BARBOSA,0.0,2023-09-01,12,[ 7  8 13  8  5  3  6 23 -8  0  0  0],"['2022-10-31' '2022-11-27' '2022-12-27' '2023-01-30' '2023-03-01'
+ '2023-03-27' '2023-04-27' '2023-05-27' '2023-06-29' '2023-07-27'
+ '2023-08-28' '2023-09-27']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],5.416666666666667,8,0.6666666666666666,alto,alto,True,False,True,False,False,False,True
+3006270047_EDUARDO BARBOSA DA FONSECA,13.37,2023-09-01,14,[ 2  0 -2  9  1  0 -2  0  5 -4  1  6  3  2],"['2022-08-27' '2022-09-27' '2022-10-27' '2022-11-27' '2022-12-27'
+ '2023-01-27' '2023-03-01' '2023-03-27' '2023-04-27' '2023-05-27'
+ '2023-06-27' '2023-07-27' '2023-08-27' '2023-09-27']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True]","[False False False False False False False False False False False False
+ False False]",1.5,8,0.5714285714285714,alto,alto,True,False,True,False,False,True,True
+3011126392_AMELIA CLERIA DE ANDRADE SILVA,0.0,2023-09-01,7,[10 29 26  8  1  0  0],"['2022-12-11' '2023-01-11' '2023-02-11' '2023-06-11' '2023-06-20'
+ '2023-06-21' '2023-08-23']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Parcelado' 'Ativo Parcelado' 'Ativo Parcelado']",[ True  True  True  True  True  True  True],[False False False False False False False],10.571428571428573,5,0.7142857142857143,alto,alto,True,False,True,False,False,False,True
+3004754448_WANDER CARLOS ALVES,0.0,2023-09-01,16,[ 1 -2  8  0 13 13  9  5 27  2 18 29 32 10 19  3],"['2022-08-08' '2022-08-28' '2022-09-08' '2022-09-28' '2022-10-08'
+ '2022-11-08' '2023-01-08' '2023-02-08' '2023-03-08' '2023-04-08'
+ '2023-05-08' '2023-06-08' '2023-07-08' '2023-08-08' '2023-09-08'
+ '2023-10-08']","['Ativo Original' 'Ativo Parcelado' 'Ativo Original' 'Ativo Parcelado'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True False]","[False False False False False False False False False False False False
+ False False False False]",11.6875,14,0.875,alto,alto,False,False,True,False,False,False,True
+3001195946_LAZARO JOSE DE CASTRO,0.0,2023-09-01,13,[  0   5   9  17  19 -16   0   2  -6  36  26  -7   0],"['2022-08-01' '2022-09-01' '2022-10-01' '2022-12-30' '2023-01-01'
+ '2023-02-01' '2023-03-01' '2023-04-01' '2023-05-01' '2023-06-01'
+ '2023-07-01' '2023-08-01' '2023-09-01']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True]","[False False False False False False False False False False False False
+ False]",6.538461538461538,7,0.5384615384615384,alto,alto,True,False,True,False,False,False,True
+3014590514_JOSIANE RIBEIRO COSTA,0.0,2023-09-01,10,[ 9 -1  5  0 -5  0 16  3 11 11],"['2022-12-17' '2023-01-17' '2023-02-17' '2023-03-17' '2023-04-17'
+ '2023-05-17' '2023-06-17' '2023-07-17' '2023-08-17' '2023-09-17']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False],4.8999999999999995,6,0.6,alto,alto,True,False,True,False,False,False,True
+3014369601_RAFAEL CAMPOS PAN,39.66,2023-09-01,9,[0 3 3 6 6 9 5 1 5],"['2023-01-27' '2023-02-27' '2023-03-27' '2023-04-27' '2023-05-27'
+ '2023-06-27' '2023-07-27' '2023-08-27' '2023-09-27']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original']",[ True  True  True  True  True  True  True  True  True],[False False False False False False False False False],4.222222222222222,8,0.8888888888888888,alto,alto,True,False,True,False,False,True,True
+3006711758_MARINA MARGARIDA SILVERIO ROBERTO,0.0,2023-09-01,12,[-2  1  5  0  3  0  2 -1  1  1  0  3],"['2022-10-13' '2022-11-06' '2023-01-06' '2023-02-06' '2023-03-06'
+ '2023-04-06' '2023-05-06' '2023-06-06' '2023-07-06' '2023-08-06'
+ '2023-09-06' '2023-10-06']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False False],1.0833333333333333,7,0.5833333333333334,alto,alto,True,False,True,False,False,False,True
+3011703818_AUGUSTO DINIZ LISBOA,0.0,2023-09-01,15,[ 0  6  3  6  4  3  6  6  4 21  7  9 10  5  1],"['2022-08-08' '2022-09-08' '2022-10-08' '2022-11-08' '2022-12-08'
+ '2023-01-08' '2023-02-08' '2023-03-08' '2023-04-08' '2023-05-08'
+ '2023-06-08' '2023-07-08' '2023-08-08' '2023-09-08' '2023-10-08']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']","[ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True]","[False False False False False False False False False False False False
+ False False False]",6.066666666666667,14,0.9333333333333333,alto,alto,True,False,True,False,False,False,True
+3011201820_AMANDA DOS SANTOS ROSA LIMA,0.0,2023-09-01,11,[15  0  2  0  0  4  2  3  0  0  1],"['2022-12-04' '2023-01-04' '2023-02-04' '2023-03-06' '2023-04-04'
+ '2023-05-04' '2023-06-04' '2023-07-04' '2023-08-04' '2023-09-04'
+ '2023-10-04']","['Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original' 'Ativo Original'
+ 'Ativo Original' 'Ativo Original' 'Ativo Original']",[ True  True  True  True  True  True  True  True  True  True  True],[False False False False False False False False False False False],2.4545454545454546,6,0.5454545454545454,alto,alto,True,False,True,False,False,False,True
